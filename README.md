@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nguyen Xuan Son
-- 👀 I’m interested in Android and iOS development
+- 👀 I’m interested in Android, iOS and .NET web development
 - 🌱 I’m currently learning at Ton Duc Thang University
  <!---
 - 💞️ I’m looking to collaborate on ...
